@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">President Menu</string>
+    <string name="exit">Exit</string>
+    <string name="footer">@COPYRIGHT - 2024</string>
+    <string name="back">Back</string>
+    <string name="president">President</string>
+    <string name="toast_menu_option">Toast Menu Option</string>
+</resources>
